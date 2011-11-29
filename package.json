@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "private": true,
+  "name": "repo.enginode.com",
+  "version": "0.0.0",
+  "test" : "fuck",
+  "repository": {
+    "url": "/iz/annoys/me"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "logged": "*",
+    "pushover": "*",
+    "connect": "*",
+    "git-emit": "*"
+  },
+  "devDependencies": {}
+}
